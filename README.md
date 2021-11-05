@@ -22,9 +22,9 @@ More on viewing and reading movie description. You can use this application on v
     id 'com.google.gms.google-services'
 
 
-For Like button star for favorite (LikeButton:0.2.3)
-Displaying an image from URL to Imageview (glide:4.12.0)
-Retrofit for getting data from API (retrofit:2.9.0) and (retrofit2:converter-gson:2.9.0)
-The lifecycle for the live data extension (lifecycle:extensions:1.1.1)
-Swiperefreshlayout for the screen when you swipe down the data will refresh (swiperefreshlayout:1.1.0)
-The Firebase-Analytics is used to connect this application to google analytics (firebase-analytics:18.0.3) (classpath 'com.google.gms:google-services:4.3.5') (id 'com.google.gms.google-services')
+1. For Like button star for favorite (LikeButton:0.2.3)
+2. Displaying an image from URL to Imageview (glide:4.12.0)
+3. Retrofit for getting data from API (retrofit:2.9.0) and (retrofit2:converter-gson:2.9.0)
+4. The lifecycle for the live data extension (lifecycle:extensions:1.1.1)
+5. Swiperefreshlayout for the screen when you swipe down the data will refresh (swiperefreshlayout:1.1.0)
+6. The Firebase-Analytics is used to connect this application to google analytics (firebase-analytics:18.0.3) (classpath 'com.google.gms:google-services:4.3.5') (id 'com.google.gms.google-services')
