@@ -22,6 +22,7 @@ classpath 'com.google.gms:google-services:4.3.5'
 id 'com.google.gms.google-services'
 
 
+
     For Like button star for favorite (LikeButton:0.2.3)
     Displaying an image from URL to Imageview (glide:4.12.0)
     Retrofit for getting data from API (retrofit:2.9.0) and (retrofit2:converter-gson:2.9.0)
