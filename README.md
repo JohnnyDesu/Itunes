@@ -3,7 +3,7 @@ In this project, I used an MVVM architecture. Itunes Movies project application 
 
 ## Installation
 
-This application has a size of 4.31MB. They require an Internet connection. You can install in different android phone with android version 5.0 up
+This application has a size of 2.00MB. They require an Internet connection. You can install in different android phone with android version 5.0 up
 
 ## Usage
 
