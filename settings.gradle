@@ -1,0 +1,2 @@
+rootProject.name = "Itunes Movies"
+include ':app'
